@@ -1,0 +1,4 @@
+Django==5.2.7
+djangorestframework==3.16.1
+slackclient==2.9.4
+slackeventsapi==3.0.3
